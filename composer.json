@@ -10,7 +10,7 @@
     },
     "authors": [{
         "name": "ashok",
-        "email": "taylor@laravel.com"
+        "email": "ashok@laravel.com"
     }],
     "require": {
         "php": ">=5.6.4",
